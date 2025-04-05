@@ -1,0 +1,25 @@
+.selected-skip-box {
+    display: flex;
+    gap: 100px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #35421d;
+    padding: 1rem;
+    padding-left: 100px;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-top: 100px;
+}
+
+.selected-skip-box p {
+    font-size: 20px;
+    margin: 0;
+}
+
+@media screen and (max-width: 420px) {
+    .selected-skip-box {
+        display: block;
+        padding-left: 0px;
+    }
+}
