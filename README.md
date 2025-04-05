@@ -7,9 +7,9 @@ This was developed as part of a front-end coding challenge for REM Waste.
 
 ## Live Demo
 
-Check it out here: [GitHub](https://your-netlify-link.netlify.app)
+Check it out here: [GitHub](https://github.com/LeandroCrixi/rem_waste-cc)
 
-_For a code sandbox environment, see: [CodeSandbox](https://codesandbox.io/your-link)_
+_For a code sandbox environment, see: [CodeSandbox](https://codesandbox.io/p/github/LeandroCrixi/rem_waste-cc/main?import=true)_
 
 ---
 
