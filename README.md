@@ -1,4 +1,4 @@
-# Code challenge REM Waste
+# Skip Selector App for REM Waste - Code Challenge
 
 A React-based application that allows users to view, compare, and select different skip hire options. 
 This was developed as part of a front-end coding challenge for REM Waste.
@@ -7,7 +7,7 @@ This was developed as part of a front-end coding challenge for REM Waste.
 
 ## Live Demo
 
-Check it out here: [Live Demo Link](https://your-netlify-link.netlify.app)
+Check it out here: [GitHub](https://your-netlify-link.netlify.app)
 
 _For a code sandbox environment, see: [CodeSandbox](https://codesandbox.io/your-link)_
 
@@ -17,9 +17,10 @@ _For a code sandbox environment, see: [CodeSandbox](https://codesandbox.io/your-
 
 - React
 - Vite
-  - React Components
+ - React Components
 - CSS Modules
 - API integration
+- Deployed with Netlify
 
 ---
 
@@ -32,8 +33,8 @@ _For a code sandbox environment, see: [CodeSandbox](https://codesandbox.io/your-
 - Each card contains a **"Select this Skip"** button
 - Only one skip can be selected at a time
 - A confirmation box at the bottom shows the selected skip's:
-  - Size
   - Final price (with VAT)
+  - Size
 - Visually highlighted selected button and border
 
 ---
@@ -46,4 +47,3 @@ _For a code sandbox environment, see: [CodeSandbox](https://codesandbox.io/your-
 4. The selected skip's is passed to a bottom component (`SelectedSkip`) that shows the confirmation box.
 
 ---
-
